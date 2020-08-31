@@ -794,7 +794,7 @@ img {
 	width:70%;
 	float:right;
 }
-.tabs .tab-selector-1:checked ~ .tab-content #content1, .tabs .tab-selector-2:checked ~ .tab-content #content2, .tabs .tab-selector-3:checked ~ .tab-content #content3, .tabs .tab-selector-4:checked ~ .tab-content #content4 {
+.tabs .tab-selector-1:checked ~ .tab-content #content1, .tabs .tab-selector-2:checked ~ .tab-content #content2, .tabs .tab-selector-3:checked ~ .tab-content #content3, .tabs .tab-selector-4:checked ~ .tab-content #content4, .tabs .tab-selector-5:checked ~ .tab-content #content5{
     height: auto;
     opacity: 1;
     width: 100%;
